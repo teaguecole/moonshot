@@ -27,6 +27,8 @@
 		A2F935E827DE814E00DA457C /* Color-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F935E627DE814E00DA457C /* Color-Theme.swift */; };
 		A2F935EA27DE894C00DA457C /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F935E927DE894C00DA457C /* MissionView.swift */; };
 		A2F935EB27DE894C00DA457C /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F935E927DE894C00DA457C /* MissionView.swift */; };
+		A2F935ED27DE92A700DA457C /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F935EC27DE92A700DA457C /* AstronautView.swift */; };
+		A2F935EE27DE92A700DA457C /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F935EC27DE92A700DA457C /* AstronautView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +45,7 @@
 		A2F935E327DE7A3600DA457C /* Missions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Missions.swift; sourceTree = "<group>"; };
 		A2F935E627DE814E00DA457C /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		A2F935E927DE894C00DA457C /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		A2F935EC27DE92A700DA457C /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +81,7 @@
 				A2F935B327DE6B9400DA457C /* MoonshotApp.swift */,
 				A2F935B427DE6B9400DA457C /* ContentView.swift */,
 				A2F935E927DE894C00DA457C /* MissionView.swift */,
+				A2F935EC27DE92A700DA457C /* AstronautView.swift */,
 				A2F935E627DE814E00DA457C /* Color-Theme.swift */,
 				A2F935E327DE7A3600DA457C /* Missions.swift */,
 				A2F935DD27DE76B900DA457C /* Astronaut.swift */,
@@ -210,6 +214,7 @@
 			files = (
 				A2F935EA27DE894C00DA457C /* MissionView.swift in Sources */,
 				A2F935DE27DE76B900DA457C /* Astronaut.swift in Sources */,
+				A2F935ED27DE92A700DA457C /* AstronautView.swift in Sources */,
 				A2F935E727DE814E00DA457C /* Color-Theme.swift in Sources */,
 				A2F935C527DE6B9500DA457C /* ContentView.swift in Sources */,
 				A2F935E427DE7A3600DA457C /* Missions.swift in Sources */,
@@ -224,6 +229,7 @@
 			files = (
 				A2F935EB27DE894C00DA457C /* MissionView.swift in Sources */,
 				A2F935DF27DE76B900DA457C /* Astronaut.swift in Sources */,
+				A2F935EE27DE92A700DA457C /* AstronautView.swift in Sources */,
 				A2F935E827DE814E00DA457C /* Color-Theme.swift in Sources */,
 				A2F935C627DE6B9500DA457C /* ContentView.swift in Sources */,
 				A2F935E527DE7A3600DA457C /* Missions.swift in Sources */,
